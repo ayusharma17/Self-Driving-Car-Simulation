@@ -8,7 +8,7 @@ This project simulates a self-driving car using pure JavaScript. The simulation 
 - **Dynamic Environment**: Includes obstacles and boundaries for the car to navigate.
 - **Sensor Simulation**: Detects obstacles and environmental features, providing input data for decision-making.
 - **Collision Detection**: Efficient algorithms to ensure accurate responses to surroundings.
-- **Neural Network Control**: Built from scratch to control the car autonomously.
+- **Neural Network Control**: Built from scratch to control the car autonomously using a genetic algorithm.
 - **Traffic Generation**: Randomized traffic on the road to train the neural network based on interaction.
 - **Visualization Tools**: Observe the neural network’s decision-making process in real-time.
 
