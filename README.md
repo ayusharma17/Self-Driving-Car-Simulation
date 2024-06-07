@@ -32,6 +32,7 @@ This project simulates a self-driving car using pure JavaScript. The simulation 
 3. **Sensors**: The `Sensor` class simulates sensor rays that detect obstacles and provide input to the neural network.
 4. **Neural Network**: The `NeuralNetwork` class controls the car based on sensor input. The network is trained through interaction with the environment and traffic.
 5. **Visualization**: The `Visualizer` class provides real-time visualization of the neural network’s decision-making process.
+6. **Traffic Generation**: Traffic is randomly generated in `Main.js` and used to train the car neural network.
 
 ## Key Functions and Classes
 
