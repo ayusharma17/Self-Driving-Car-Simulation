@@ -43,3 +43,5 @@ This project simulates a self-driving car using pure JavaScript. The simulation 
 - `Visualizer`: Provides tools for visualizing the neural network.
 
 ## Screenshots
+<img width="518" alt="image" src="https://github.com/ayusharma17/Self-Driving-Car-Simulation/assets/102592750/21ffa553-ae63-45fb-93c3-16b2c5cac84d">
+
